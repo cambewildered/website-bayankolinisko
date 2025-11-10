@@ -15,9 +15,6 @@ An advocacy website that tackles hygiene and sanitation for Malaya and Maparaan 
 - Poster
 - Podcast
 - Vlog
-- Social Media Page
-- Logo
-- Dedicated Social Media Section
 - CSS Animations
 
 # Author
