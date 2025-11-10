@@ -15,7 +15,7 @@ An advocacy website that tackles hygiene and sanitation for Malaya and Maparaan 
 - Poster
 - Podcast
 - Vlog
-- CSS Animations
+- CSS Animations (maybe)
 
 # Author
 cambewildered
