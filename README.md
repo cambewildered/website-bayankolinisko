@@ -12,9 +12,7 @@ An advocacy website that tackles hygiene and sanitation for Malaya and Maparaan 
 - None for now
 
 ## Working On
-- Poster
 - Podcast
-- Vlog
 - CSS Animations (maybe)
 
 # Author
