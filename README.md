@@ -6,14 +6,10 @@ An advocacy website that tackles hygiene and sanitation for Malaya and Maparaan 
 ## Written
 - HTML & CSS
 - With some help from AI for the broken code I did
-- s/o to my friend for the html source code even I know that this was written by AI
-
-## Things that don't work at the moment
-- None for now
+- S/O to my friend for giving this HTML source code (literally from ai wdym u made this?)
 
 ## Working On
-- Podcast
-- CSS Animations (maybe)
+- None
 
 # Author
 cambewildered
